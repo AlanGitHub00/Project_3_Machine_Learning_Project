@@ -1,2 +1,3 @@
-# Project_3_Machine_Learning_Project
-Group Project-with Akshit Arora, Anthony (Tony) Parillo and Antonio Salvador
+# project_3
+project_3.ipynb is the main code that was used. 
+ALPSsubmit.csv is the data that was submitted to Kaggle.
